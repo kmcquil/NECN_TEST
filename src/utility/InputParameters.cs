@@ -83,7 +83,6 @@ namespace Landis.Extension.Succession.NECN
         private Landis.Library.Parameters.Species.AuxParm<double> fineRootCN;
         private Landis.Library.Parameters.Species.AuxParm<int> maxANPP;
         private Landis.Library.Parameters.Species.AuxParm<int> maxBiomass;
-        private Landis.Library.Parameters.Species.AuxParm<bool> grass;  // optional
         private Landis.Library.Parameters.Species.AuxParm<double> growthLAI; // optional
 
         private List<ISufficientLight> sufficientLight;
